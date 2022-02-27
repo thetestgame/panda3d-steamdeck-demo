@@ -1,1 +1,1 @@
-# panda3d-steamdeck-demo
+# Panda3D SteamDeck Demo
